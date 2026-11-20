@@ -1,0 +1,4 @@
+# Copie para a pasta "conf" do Tomcat, com o nome vacinacao.properties.
+db.url=jdbc:postgresql://localhost:5432/vacinacao
+db.user=vacinacao_app
+db.password=SUBSTITUA_PELA_SENHA_DO_USUARIO_DO_BANCO

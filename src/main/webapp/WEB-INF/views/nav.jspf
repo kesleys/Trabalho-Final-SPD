@@ -1,0 +1,11 @@
+<nav class="navbar navbar-dark bg-primary">
+  <div class="container d-flex flex-wrap gap-3">
+    <a class="navbar-brand" href="<c:url value='/'/>">Vacinação</a>
+    <div class="d-flex flex-wrap gap-3">
+      <a class="text-white" href="<c:url value='/vacinas'/>">Vacinas</a>
+      <a class="text-white" href="<c:url value='/alergias'/>">Alergias</a>
+      <a class="text-white" href="<c:url value='/usuarios'/>">Usuários</a>
+      <a class="text-white" href="<c:url value='/agendas'/>">Agendamentos</a>
+    </div>
+  </div>
+</nav>

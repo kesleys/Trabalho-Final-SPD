@@ -1,0 +1,4 @@
+body { background: #f6f8fb; color: #1f2937; }
+main { max-width: 1120px; }
+.card { border-color: #dce3eb; }
+.descricao { min-width: 12rem; max-width: 24rem; overflow-wrap: anywhere; white-space: pre-wrap; }
